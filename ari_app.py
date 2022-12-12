@@ -25,7 +25,7 @@ st.header ("Welcome! This is a Machine Learning classification app to predict wh
 #st.subheader ("Make your selections in the sidebar and click 'Predict'")
 
 #setting my directory
-os.chdir("/Users/ari2k88/OneDrive/Georgetown MSBA Classes/Programming II/Final_Project_Mac")
+#os.chdir("/Users/ari2k88/OneDrive/Georgetown MSBA Classes/Programming II/Final_Project_Mac")
 
 
 #reading in the social media usage data and saving it into a new object named "s"
